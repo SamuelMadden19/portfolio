@@ -1,6 +1,6 @@
 # A Short Analysis of Feature Extraction in Electroluminescence Images of Photovoltaic Module Cells
 
-## Full report located in ELPV_FaultDetection.pdf
+## [Full report located in ELPV_FaultDetection.pdf](https://github.com/SamuelMadden19/portfolio/blob/master/SolarFault/ELPV_FaultDetection.pdf)
 
 ### Abstract
 There has been an exponential increase in the use of photovoltaic (PV) systems, most notably, the photovoltaic solar panel or solar cell. This naturally gives rise to the difficulties of operation and maintenance. With the combined use of unmanned aerial vehicles (UAV) and electroluminescence (EL) imaging, detailed aerial imagery of the PV systems may be collected and inspected for defects. The analysis of these images is a tedious and expensive manual process that can be alleviated by machine learning. An automated approach makes monitoring and upkeep of PV cells feasible.
