@@ -1,6 +1,6 @@
 # Porto Seguro Binary Classification
 
-### [Full Research Report}(https://github.com/SamuelMadden19/portfolio/blob/master/DriverPrediction/report.pdf)
+### [Full Research Report](https://github.com/SamuelMadden19/portfolio/blob/master/DriverPrediction/report.pdf)
 
 ## Overview
 Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies, 
